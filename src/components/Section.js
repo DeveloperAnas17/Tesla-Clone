@@ -37,7 +37,7 @@ const Wrap = styled.div`
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url("./img/Desktop-Model3 .jpeg");
+  background-image: url("./img/Desktop-Model3.jpeg");
   background-image: ${(props) => `url("/img/${props.bgImage}")`};
   display: flex;
   flex-direction: column;
